@@ -1,0 +1,5 @@
+__pycache__
+venv
+.idea
+api_tokens.py
+project_info.txt

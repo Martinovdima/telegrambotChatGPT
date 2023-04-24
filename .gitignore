@@ -1,5 +1,5 @@
 __pycache__
 venv
 .idea
-api_tokens.py
+config.py
 project_info.txt
